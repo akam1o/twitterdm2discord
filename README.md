@@ -8,7 +8,8 @@ Twitter DM Notification for discord Webhook
 
 ### 2. Set Gmail label for Twitter DM notification email
 
-Script's default label: twitterDMnotify
+Script's default label: `twitterDMnotify`
+
 But as you like
 
 ### 3. Edit GoogleAppsScript.js
