@@ -6,7 +6,11 @@ Twitter DM Notification for discord Webhook
 
 ### 1. Twitter DM Notification via Gmail
 
-### 2. Set Gmail label for Twitter DM notification email
+- Twitter -> Settings -> Notifications -> Preferences -> Email notifications
+  - Enable Email notifications
+  - Check Direct messages
+
+### 2. Set Gmail label for Twitter DM notification Email
 
 Script's default label: `twitterDMnotify`
 
